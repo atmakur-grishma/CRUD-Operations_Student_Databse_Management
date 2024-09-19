@@ -2,10 +2,15 @@
 A RESTful API built with FastAPI and MongoDB to manage student records, including CRUD operations for efficient data management
 
 Technologies Used:
+
 FastAPI: For building the API.
+
 MongoDB: For the database.
+
 Motor: For asynchronous database operations.
+
 Pydantic: For data validation.
+
 Uvicorn: For running the FastAPI application.
 
 Key Features:
